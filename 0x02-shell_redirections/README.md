@@ -8,3 +8,4 @@ Write a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\
 Write a script that duplicates the last line of the file iacta.
 delete regular files.
 script that counts the number of directories and sub-directories in the current directory
+Create a script that displays the 10 newest files in the current directory.
