@@ -9,3 +9,4 @@ script that creates a new local variable.
 a script that creates a new global variable  .
 a script that prints the result of the addition of 128 with the value stored in the environment variable .
 a script that prints the result of POWER divided by DIVIDE
+a script that displays the result of BREATH to the power of LOVE  .
